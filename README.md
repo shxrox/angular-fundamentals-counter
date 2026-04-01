@@ -10,7 +10,25 @@ To start a local development server, run:
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automat# Angular Fundamentals & Counter App
+
+This repository contains my progress refreshing Angular core concepts.
+
+## 🚀 What I Learned:
+* **Angular CLI:** Project structure and `ng` commands.
+* **Data Binding:**
+    * Interpolation `{{ }}`
+    * Property Binding `[property]`
+    * Event Binding `(event)`
+    * Two-Way Binding `[(ngModel)]`
+
+## 📱 Project: Counter App
+A simple application demonstrating state management and event handling in Angular.
+
+## 🛠️ How to run:
+1. `cd MyApp`
+2. `npm install`
+3. `ng serve`ically reload whenever you modify any of the source files.
 
 ## Code scaffolding
 
