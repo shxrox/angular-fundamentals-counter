@@ -1,0 +1,29 @@
+/* Centers the text at the top */
+p {
+    text-align: center;
+    font-size: 80px;
+    margin-top: 20px;
+}
+
+
+.button-group {
+    display: flex;
+    justify-content: center; 
+    gap: 15px;               
+    margin-top: 20px;
+}
+
+
+button {
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    background-color: white;
+}
+
+button:hover {
+    background-color: #d1d1d1;
+
+}
